@@ -1,4 +1,4 @@
-# NetworkingScripts
+# Networking Scripts
 A collection of BAU Networking Scripts I have compiled. Focusing mainly on Cisco Routers and Switches.
 
 ## Disclaimer
