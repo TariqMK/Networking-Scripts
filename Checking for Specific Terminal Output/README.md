@@ -3,6 +3,9 @@
 ## Intent
 This script is used to return the IP Address of a Cisco Router/Switch that returns specific output on the terminal in response to a user-defined IOS Command.
 
+## Prerequisites
+It is required that you have the Netmiko Library installed for this Script to work.
+
 ## Usage
 1. Ensure you have a file named `devices.txt` in the same directory as the script containing a list of all the Router/Switch IP Addresses that you wish to query. 1 entry per line.
 2. The Script will open the file and iterate through each IP Address, connecting via SSH using the credentials you enter
